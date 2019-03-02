@@ -1,6 +1,6 @@
 {
   "name": "ducatuscore-lib",
-  "version": "5.0.0-beta.1",
+  "version": "5.0.0-beta.1.debug",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
